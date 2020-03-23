@@ -4,15 +4,21 @@ Haiku (meaning a very short form of [Japanese poetry](http://en.wikipedia.org/wi
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `haiku` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:haiku, "~> 0.1.0"}
-  ]
-end
+```
+mix escript.install github nwjlyons/haiku
 ```
 
+Add `~/.mix/escripts` to your `PATH`.
 
+
+This is an example of what happens when you run haiku:
+
+```
+
+$ haiku
+autumn-field
+```
+
+Inspired from this gist https://gist.github.com/afriggeri/1266756
+
+I created a previous version of this using Go https://github.com/nwjlyons/haiku-go
