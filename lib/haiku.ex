@@ -34,7 +34,7 @@ defmodule Haiku do
     "misty",
     "morning",
     "muddy",
-    "nameless"
+    "nameless",
     "old",
     "patient",
     "polished",
@@ -112,7 +112,7 @@ defmodule Haiku do
     "snow",
     "snowflake",
     "sound",
-    "star"
+    "star",
     "sun",
     "sun",
     "sunset",
