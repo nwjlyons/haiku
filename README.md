@@ -1,6 +1,6 @@
 # Haiku
 
-**TODO: Add description**
+Haiku (meaning a very short form of [Japanese poetry](http://en.wikipedia.org/wiki/Haiku)) is a random name generator.
 
 ## Installation
 
@@ -15,7 +15,4 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/haiku](https://hexdocs.pm/haiku).
 
