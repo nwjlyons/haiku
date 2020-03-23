@@ -11,10 +11,9 @@ mix escript.install github nwjlyons/haiku
 Add `~/.mix/escripts` to your `PATH`.
 
 
-This is an example of what happens when you run haiku:
+This is an example of what happens when you run `haiku`:
 
 ```
-
 $ haiku
 autumn-field
 ```
