@@ -5,19 +5,9 @@ Haiku (meaning a very short form of [Japanese poetry](http://en.wikipedia.org/wi
 ## Installation
 
 ```
-mix escript.install github nwjlyons/haiku
+def deps do
+  [
+    {:haiku, github: "nwjlyons/haiku", tag: "v0.1.0}
+  ]
+end
 ```
-
-Add `~/.mix/escripts` to your `PATH`.
-
-
-This is an example of what happens when you run `haiku`:
-
-```
-$ haiku
-autumn-field
-```
-
-Inspired from this gist https://gist.github.com/afriggeri/1266756
-
-I created a previous version of this using Go https://github.com/nwjlyons/haiku-go
