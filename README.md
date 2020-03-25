@@ -7,7 +7,7 @@ Haiku (meaning a very short form of [Japanese poetry](http://en.wikipedia.org/wi
 ```
 def deps do
   [
-    {:haiku, github: "nwjlyons/haiku", tag: "v0.1.0}
+    {:haiku, github: "nwjlyons/haiku", tag: "v0.1.0"}
   ]
 end
 ```
